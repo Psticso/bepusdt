@@ -3,7 +3,7 @@ package telegram
 import (
 	"fmt"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
-	"github.com/v03413/bepusdt/app/config"
+	"github.com/Psticso/bepusdt/app/config"
 	"strconv"
 )
 
