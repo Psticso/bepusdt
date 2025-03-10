@@ -5,9 +5,9 @@ import (
 	"encoding/hex"
 	"fmt"
 	"github.com/spf13/cast"
-	"github.com/v03413/bepusdt/app/config"
-	"github.com/v03413/bepusdt/app/help"
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/Psticso/bepusdt/app/config"
+	"github.com/Psticso/bepusdt/app/help"
+	"github.com/Psticso/bepusdt/app/model"
 	"net/url"
 	"sort"
 )
