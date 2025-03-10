@@ -1,9 +1,9 @@
 package monitor
 
 import (
-	"github.com/v03413/bepusdt/app/log"
-	"github.com/v03413/bepusdt/app/model"
-	"github.com/v03413/bepusdt/app/notify"
+	"github.com/Psticso/bepusdt/app/log"
+	"github.com/Psticso/bepusdt/app/model"
+	"github.com/Psticso/bepusdt/app/notify"
 	"math"
 	"time"
 )
