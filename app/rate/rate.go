@@ -3,9 +3,9 @@ package rate
 import (
 	"github.com/shopspring/decimal"
 	"github.com/spf13/cast"
-	"github.com/v03413/bepusdt/app/config"
-	"github.com/v03413/bepusdt/app/help"
-	"github.com/v03413/bepusdt/app/log"
+	"github.com/Psticso/bepusdt/app/config"
+	"github.com/Psticso/bepusdt/app/help"
+	"github.com/Psticso/bepusdt/app/log"
 	"math"
 	"regexp"
 )
