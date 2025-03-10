@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/v03413/bepusdt/app"
-	"github.com/v03413/bepusdt/app/monitor"
-	"github.com/v03413/bepusdt/app/web"
+	"github.com/Psticso/bepusdt/app"
+	"github.com/Psticso/bepusdt/app/monitor"
+	"github.com/Psticso/bepusdt/app/web"
 	"os"
 	"os/signal"
 	"runtime"
