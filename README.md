@@ -13,7 +13,7 @@
 <a href="https://golang.org"><img src="https://img.shields.io/badge/Golang-1.22-red" alt="Go version 1.21"></a>
 <a href="https://github.com/gin-gonic/gin"><img src="https://img.shields.io/badge/Gin-v1.9-blue" alt="Gin Web Framework v1.9"></a>
 <a href="https://github.com/go-telegram-bot-api/telegram-bot-api"><img src="https://img.shields.io/badge/Telegram Bot-v5-lightgrey" alt="Golang Telegram Bot Api-v5"></a>
-<a href="https://github.com/v03413/bepusdt"><img src="https://img.shields.io/badge/Release-v1.9.21-green" alt="Release v1.9.21"></a>
+<a href="https://github.com/Psticso/bepusdt"><img src="https://img.shields.io/badge/Release-v1.9.21-green" alt="Release v1.9.21"></a>
 </p>
 
 ## 🪧 介绍
@@ -200,4 +200,4 @@ POST /api/v1/order/cancel-transaction
 
 ## 🌟 Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/v03413/bepusdt.svg)](https://starchart.cc/v03413/bepusdt)
+[![Stargazers over time](https://starchart.cc/Psticso/bepusdt.svg)](https://starchart.cc/Psticso/bepusdt)
