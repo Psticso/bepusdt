@@ -3,9 +3,9 @@ package telegram
 import (
 	"fmt"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
-	"github.com/v03413/bepusdt/app/config"
-	"github.com/v03413/bepusdt/app/help"
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/Psticso/bepusdt/app/config"
+	"github.com/Psticso/bepusdt/app/help"
+	"github.com/Psticso/bepusdt/app/model"
 	"strconv"
 	"time"
 )
@@ -73,11 +73,11 @@ func SendOtherNotify(text string) {
 
 func SendWelcome(version string) {
 	var text = `
-👋 欢迎使用 Bepusdt，一款更好用的个人USDT收款网关，如果您看到此消息，说明机器人已经启动成功
+👋 欢迎使用 码赏付，一款更好用的个人USDT收款网关，如果您看到此消息，说明机器人已经启动成功
 
 📌当前版本：` + version + `
 📝发送命令 /start 可以开始使用
-🎉开源地址 https://github.com/v03413/bepusdt
+🎉开源地址 https://pay.puour.com
 ---
 `
 	var msg = tgbotapi.NewMessage(0, text)
