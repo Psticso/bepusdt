@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/cast"
-	"github.com/v03413/bepusdt/app/config"
-	"github.com/v03413/bepusdt/app/epay"
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/Psticso/bepusdt/app/config"
+	"github.com/Psticso/bepusdt/app/epay"
+	"github.com/Psticso/bepusdt/app/model"
 	"net/http"
 )
 
