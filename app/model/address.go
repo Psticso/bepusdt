@@ -3,8 +3,8 @@ package model
 import (
 	"errors"
 	"fmt"
-	"github.com/v03413/bepusdt/app/config"
-	"github.com/v03413/bepusdt/app/help"
+	"github.com/Psticso/bepusdt/app/config"
+	"github.com/Psticso/bepusdt/app/help"
 	"gorm.io/gorm"
 	"time"
 )
