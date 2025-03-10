@@ -2,7 +2,7 @@ package model
 
 import (
 	"github.com/shopspring/decimal"
-	"github.com/v03413/bepusdt/app/config"
+	"github.com/Psticso/bepusdt/app/config"
 	"strconv"
 	"sync"
 	"time"
