@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/v03413/bepusdt/app/config"
-	"github.com/v03413/bepusdt/app/model"
+	"github.com/Psticso/bepusdt/app/config"
+	"github.com/Psticso/bepusdt/app/model"
 )
 
 func Init() error {
