@@ -2,9 +2,9 @@ package monitor
 
 import (
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
-	"github.com/v03413/bepusdt/app"
-	"github.com/v03413/bepusdt/app/log"
-	"github.com/v03413/bepusdt/app/telegram"
+	"github.com/Psticso/bepusdt/app"
+	"github.com/Psticso/bepusdt/app/log"
+	"github.com/Psticso/bepusdt/app/telegram"
 	"time"
 )
 
