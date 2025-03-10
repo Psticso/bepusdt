@@ -25,7 +25,7 @@ func Start() {
 			ctx.Writer.Header().Set("Payment-Gateway", "https://github.com/v03413/bepusdt")
 		})
 		engine.GET("/", func(c *gin.Context) {
-			c.HTML(200, "index.html", gin.H{"title": "一款更易用的USDT收款网关", "url": "https://github.com/v03413/bepusdt"})
+			c.HTML(200, "index.html", gin.H{"title": "一款更易用的USDT收款网关", "url": "https://pay.puour.com"})
 		})
 	}
 
