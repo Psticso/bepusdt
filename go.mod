@@ -1,4 +1,4 @@
-module github.com/v03413/bepusdt
+module github.com/Psticso/bepusdt
 
 go 1.23.0
 
@@ -14,7 +14,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cast v1.7.0
 	github.com/tidwall/gjson v1.17.0
-	github.com/v03413/tronprotocol v0.0.0-20240824084238-bbd62f5e0158
+	github.com/Psticso/tronprotocol v0.0.0-20240824084238-bbd62f5e0158
 	google.golang.org/grpc v1.65.0
 	gorm.io/gorm v1.25.10
 )
